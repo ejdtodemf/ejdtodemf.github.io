@@ -1,0 +1,25 @@
+
+{% assign sum = site.posts | size %}
+<nav class="nav__list">
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label }}</label>
+  <ul class="nav__items" id="category_tag_menu">
+
+    <li>
+      <span style="color:#AADBFF">전체 글 수 </span> <span style="color:#AADBFF">{{sum}}</span> <span style="color:#AADBFF"> 개</span>
+    </li>
+
+    
+<span class="nav__sub-title" style="font-size:24px; color:#B4B4FF">Github</span>
+
+    <ul>
+        {% for category in site.categories %}
+        {% if category[0] == "Github" %}
+            <li><a href="/categories/Github" class="">Github ({{category[1].size}})</a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+
+    
+  </ul>
+</nav>
