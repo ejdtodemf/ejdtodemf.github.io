@@ -4,7 +4,7 @@ excerpt : "Github 블로그 계정 생성"
 toc : true
 toc_sticky : true
 toc_label : "Github 블로그 계정 생성"
-categories:
+categories: coding
 - Github
 tags:
 - [미완료]
