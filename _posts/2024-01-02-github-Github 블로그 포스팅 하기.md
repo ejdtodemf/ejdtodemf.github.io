@@ -65,9 +65,9 @@ last_modified_at: 2024-01-02T08:00:00-10:00:00
 # 2. 포스터 작성 후 Sourcetree를 사용하여 Push
 - jekyll server 명령어 입력 후 로컬 및 웹 페이지 주소로 확인하시면 됩니다!! 
 	* jekyll server로 접속 시 :   
-![image](../../assets/images/Pasted%20image%2020231228135106.png)
+![image](../../assets/images/Pasted%20image%2020240102153810.png)
 	* username.github.io로 접속 시 :   
-![image](../../assets/images/Pasted%20image%2020231228135336.png)
+![image](../../assets/images/Pasted%20image%2020240102153855.png)		
 
 ### 다음 포스터는 이미지 추가하는 내용을 올릴 예정입니다!!
 
