@@ -46,7 +46,7 @@ last_modified_at: 2024-01-02T08:00:00-10:00:00
 * 내부 양식 :   
 ![image](../../assets/images/Pasted%20image%2020231228114007.png)
 
-| 이름             | 의미                                                   |
+| Name             | Mean                                                   |
 | ---------------- | ------------------------------------------------------ |
 | title            | 포스터 제목                                            |
 | excerpt          | 포스터 내용 요약                                       |
@@ -55,7 +55,7 @@ last_modified_at: 2024-01-02T08:00:00-10:00:00
 | toc              | Table of content 의 약칭, 우측에 표시할 상단의 목차    |
 | date             | 포스터 날짜                                            |
 | last_modified_at | 게시글 마지막 수정일, 포스터에는 yyyy-mm-dd까지 나타남 |
-| 
+
 * 작성 시 문자 정렬 방법
    
 ![image](../../assets/images/Pasted%20image%2020231228144218.png)
