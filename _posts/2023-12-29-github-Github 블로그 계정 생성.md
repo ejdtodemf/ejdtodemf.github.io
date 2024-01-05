@@ -1,11 +1,11 @@
 ---
-title : "Github 블로그 계정 생성"
+title : "Github 블로그"
 excerpt : "Github 블로그 계정 생성"
 toc : true
 toc_sticky : true
 toc_label : "Github 블로그 계정 생성"
-categories: coding
-- Github
+categories: 
+- GithubBlog
 tags:
 - [미완료]
 last_modified_at: 2023-12-29T08:00:00-10:00:00
