@@ -7,13 +7,13 @@ toc_label : "Github 블로그 포스팅 하기"
 categories:
 - Github
 tags:
-- [미완료]
+- [github, 블로그]
 last_modified_at: 2024-01-02T08:00:00-10:00:00
 ---
 
 ## 날짜 : 2024-01-02 10:18
 
-# 태그 : #미완료 
+# 태그 : #github #블로그
 ---
 
 # 내용
@@ -23,6 +23,9 @@ last_modified_at: 2024-01-02T08:00:00-10:00:00
 
 ## 블로그 생성 시 필요한 Utility / Tool
 - Git / Visual Studio Code
+
+## GUI Git Tool
+- sourcetree
 
 ## 게시글 포스팅 하기
 [tip] 해당 테마의 포스터 양식 확인 
