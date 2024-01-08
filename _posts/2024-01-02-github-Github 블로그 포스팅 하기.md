@@ -1,11 +1,11 @@
 ---
-title : "Github 블로그 포스팅 하기"
+title : "Github 블로그"
 excerpt : "Github 블로그 포스팅 하기"
 toc : true
 toc_sticky : true
 toc_label : "Github 블로그 포스팅 하기"
 categories:
-- Github
+- GithubBlog
 tags:
 - [미완료]
 last_modified_at: 2024-01-02T08:00:00-10:00:00
