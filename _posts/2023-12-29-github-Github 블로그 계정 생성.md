@@ -44,17 +44,17 @@ last_modified_at: 2023-12-29T08:00:00-10:00:00
 	-   
 ![image](../../assets/images/Pasted%20image%2020231227135617.png)
 5. Create a new repository 빨간 테두리 부분 작성
-	1) Repository name : UserName/github.io로 생성하기!!!   
-		- UserName.github.io >> github.io 블로그는 계정당 한 개만 생성 가능합니다!
+	1) Repository name : UserName/github.io로 생성하기!!!
+	- UserName.github.io >> github.io 블로그는 계정당 한 개만 생성 가능합니다!
 	2) Public / Private 선택
-		- 모두에게 공개해도 되는 블로그 -> Public
-		-  User에게만 보이는 블로그 - Private
+	- 모두에게 공개해도 되는 블로그 -> Public
+	- User에게만 보이는 블로그 - Private
 	3) Initialize this repository with : 
-		- Add a README file 체크
-		- 체크 시 : 그 다음 작업 Clone 할 때 편하기에 체크 권장
-		- 언체크 시 : Clone 할 때 다른 작업이 필요함
+	- Add a README file 체크
+	- 체크 시 : 그 다음 작업 Clone 할 때 편하기에 체크 권장
+	- 언체크 시 : Clone 할 때 다른 작업이 필요함
 	4) Create repository 클릭
-		-   
+	-   
 ![image](../../assets/images/Pasted%20image%2020231227143017.png)
 6. GUI git 툴 사용을 위하여 Sourcetree  설치
 	- [Sourcetree](https://www.sourcetreeapp.com/)
@@ -68,13 +68,13 @@ last_modified_at: 2023-12-29T08:00:00-10:00:00
 	2) 복사 아이콘 클릭하여 URL 복사
 	-   
 ![image](../../assets/images/Pasted%20image%2020231227165344.png)
-	1) Sourcetree 사용하여 Clone 하기
+	3) Sourcetree 사용하여 Clone 하기
 		3-1) Clone 클릭 
 		3-2) 복사한 URL 붙여넣기
 		3-3) 클론
-				-   
+		-   
 ![image](../../assets/images/Pasted%20image%2020231227171404.png)
-	2) 해당 경로 클론 확인
+	4) 해당 경로 클론 확인
 		-   
 ![image](../../assets/images/Pasted%20image%2020231227171800.png)
 8. jekyll 테마 다운받기
