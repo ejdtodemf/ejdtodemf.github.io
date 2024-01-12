@@ -44,7 +44,7 @@ last_modified_at: 2024-01-07T08:00:00-10:00:00
 -   
 ![image](../../assets/images/Pasted%20image%2020240107232832.png)
 - private 한 repository 를 [Github 블로그 계정 생성](../../github/github-Github-블로그-계정-생성) 에서 클론한 방식처럼 진행하면 **Error => Sourcetree github clone error 유효한 소스 경로/URL 이 아닙니다. ** 와 같은 오류가 발생합니다.
-- public이 아닌 private 한 repository 이기 때문이죠!! 그래서 이번 글에서는 private repository  clone 하는 법을 알려드리려고 합니다!!
+- public이 아닌 private 한 repository 이기 때문이죠!! 그래서 이번 글에서는 private repository  clone 하는 법을 알려드리려고 합니다!! 
 - 저는 깃허브에 현재   
 ![image](../../assets/images/Pasted%20image%2020240108135645.png) 사진과 같이 ejdtodemf.github.io, obsidian 이렇게 두 개의 Repository 가 존재합니다.
 - Obsidian은 git과 연동되어있는 Private 저장소이고, ejdtodemf.github.io는 지금 이 블로그입니다.

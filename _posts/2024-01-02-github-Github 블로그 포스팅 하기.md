@@ -72,7 +72,7 @@ last_modified_at: 2024-01-02T08:00:00-10:00:00
 	* username.github.io로 접속 시 :   
 ![image](../../assets/images/Pasted%20image%2020240102153855.png)		
 
-### 다음 포스터는 이미지 추가하는 내용을 올릴 예정입니다!!
+### 제가 이해한 부분에서만 포스팅 하다보니 상이한 점이 있을 수 있습니다. 혹시 그런 부분 또는 오타가 있다면 댓글 부탁드립니다!!
 
 ![image](../../assets/images/Pasted%20image%2020231228155042.png)
 
