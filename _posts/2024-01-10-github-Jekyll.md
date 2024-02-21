@@ -5,7 +5,7 @@ toc : true
 toc_sticky : true
 toc_label : "Jekyll"
 categories:
-- 프로그래밍 언어
+- Github
 tags:
 - [github, jekyll]
 last_modified_at: 2024-01-10T08:00:00-10:00:00

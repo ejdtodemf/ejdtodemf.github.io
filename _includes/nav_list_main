@@ -32,12 +32,32 @@
     </ul>
 
     
+<span class="nav__sub-title" style="font-size:24px; color:#B4B4FF">페이지만들기</span>
+
+    <ul>
+        {% for category in site.categories %}
+        {% if category[0] == "페이지만들기" %}
+            <li><a href="/categories/페이지만들기" class="">페이지만들기 ({{category[1].size}})</a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+
+    
 <span class="nav__sub-title" style="font-size:24px; color:#B4B4FF">프로그래밍 언어</span>
 
     <ul>
         {% for category in site.categories %}
-        {% if category[0] == "프로그래밍 언어" %}
-            <li><a href="/categories/프로그래밍 언어" class="">프로그래밍 언어 ({{category[1].size}})</a></li>
+        {% if category[0] == "ETC" %}
+            <li><a href="/categories/ETC" class="">ETC ({{category[1].size}})</a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+
+    
+    <ul>
+        {% for category in site.categories %}
+        {% if category[0] == "Java" %}
+            <li><a href="/categories/Java" class="">Java ({{category[1].size}})</a></li>
         {% endif %}
         {% endfor %}
     </ul>
