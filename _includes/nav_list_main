@@ -63,5 +63,23 @@
     </ul>
 
     
+    <ul>
+        {% for category in site.categories %}
+        {% if category[0] == "Next.js" %}
+            <li><a href="/categories/Next.js" class="">Next.js ({{category[1].size}})</a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+
+    
+    <ul>
+        {% for category in site.categories %}
+        {% if category[0] == "자바스크립트" %}
+            <li><a href="/categories/자바스크립트" class="">자바스크립트 ({{category[1].size}})</a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+
+    
   </ul>
 </nav>
